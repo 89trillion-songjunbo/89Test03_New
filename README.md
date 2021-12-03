@@ -60,11 +60,6 @@
 
 7、关键代码逻辑的流程图
 
-![Image](https://github.com/89trillion-songjunbo/89Test03_New/blob/main/89Test03%20脚本流程图.png)
-
-
-8、运行流程图
-![Image](https://github.com/89trillion-songjunbo/89Test03/blob/master/89Test03.png)
-
+![Image](https://github.com/89trillion-songjunbo/89Test03_New/blob/main/89Test03New%20脚本流程图.png)
 
 
